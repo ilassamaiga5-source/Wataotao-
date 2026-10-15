@@ -1,0 +1,2 @@
+cd ~/WATAOTAO
+cat > templates/client.html << 'PRO'
